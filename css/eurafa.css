@@ -1,0 +1,22 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background: url("../img/bg-beans.jpg") no-repeat scroll 0px 0px / cover;
+	color: #44535e;
+	font-family: "Open Sans", sans-serif;
+	font-size: 15px;
+}
+
+.bg-beans {
+	height: 500px;
+	color: #fff;
+}
+.bg-beans h1 {
+	margin: 0px;
+	padding: 180px 180px;
+	font-family: "Raleway", sans-serif;
+	font-weight: 300;
+	font-size: 130px;
+	text-shadow: none;
+	text-transform: none;	
+}
